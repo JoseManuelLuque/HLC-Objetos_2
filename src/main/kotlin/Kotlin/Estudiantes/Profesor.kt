@@ -1,4 +1,4 @@
-package Estudiantes
+package Kotlin.Estudiantes
 
 data class Profesor(val id: Int, val nombre: String) {
     fun asignarCurso(estudiante: Estudiante, curso: Curso) {

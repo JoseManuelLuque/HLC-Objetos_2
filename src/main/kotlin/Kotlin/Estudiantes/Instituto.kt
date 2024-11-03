@@ -1,4 +1,4 @@
-package Estudiantes
+package Kotlin.Estudiantes
 
 class Instituto {
     val estudiantes = mutableListOf<Estudiante>()

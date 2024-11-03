@@ -1,4 +1,4 @@
-package Estudiantes
+package Kotlin.Estudiantes
 
 fun main() {
     val instituto = Instituto()

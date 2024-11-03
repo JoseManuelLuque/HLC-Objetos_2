@@ -1,4 +1,4 @@
-package Hotel
+package Kotlin.Hotel
 
 fun main() {
     val hotel = Hotel()

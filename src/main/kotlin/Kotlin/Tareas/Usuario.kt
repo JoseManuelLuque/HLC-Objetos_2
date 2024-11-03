@@ -1,4 +1,4 @@
-package Tareas
+package Kotlin.Tareas
 
 data class Usuario(val id: Int, val nombre: String) {
     val proyectos = mutableListOf<Proyecto>()

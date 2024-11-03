@@ -1,4 +1,4 @@
-package Hotel
+package Kotlin.Hotel
 
 class Hotel {
     private val habitaciones = mutableListOf<Habitacion>()

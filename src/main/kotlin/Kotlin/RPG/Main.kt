@@ -1,4 +1,4 @@
-package RPG
+package Kotlin.RPG
 
 fun main() {
     val guerrero = Guerrero("Guerrero1", 100, 15)

@@ -1,4 +1,4 @@
-package Hotel
+package Kotlin.Hotel
 
 data class Reserva(
     val id: Int,

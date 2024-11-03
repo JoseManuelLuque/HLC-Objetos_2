@@ -1,3 +1,3 @@
-package RPG
+package Kotlin.RPG
 
 data class Hechizo(val nombre: String, val dano: Int, val costoMana: Int)

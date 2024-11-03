@@ -1,4 +1,4 @@
-package Tareas
+package Kotlin.Tareas
 
 data class Tarea(val id: Int, val nombre: String, var completada: Boolean = false) {
     fun marcarCompletada() {

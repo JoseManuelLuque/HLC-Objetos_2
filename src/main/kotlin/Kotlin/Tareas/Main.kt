@@ -1,4 +1,4 @@
-package Tareas
+package Kotlin.Tareas
 
 fun main() {
     val usuario = Usuario(1, "Ana López")

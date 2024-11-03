@@ -1,4 +1,4 @@
-package RPG
+package Kotlin.RPG
 
 abstract class Personaje(
     val nombre: String,

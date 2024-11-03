@@ -1,4 +1,4 @@
-package RPG
+package Kotlin.RPG
 
 class Mago(nombre: String, puntosDeVida: Int, ataque: Int, var mana: Int) : Personaje(nombre, puntosDeVida, ataque) {
     val hechizos = mutableListOf<Hechizo>()

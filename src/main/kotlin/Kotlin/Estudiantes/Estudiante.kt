@@ -1,4 +1,4 @@
-package Estudiantes
+package Kotlin.Estudiantes
 
 data class Estudiante(val id: Int, val nombre: String) {
     val cursos = mutableListOf<Curso>()

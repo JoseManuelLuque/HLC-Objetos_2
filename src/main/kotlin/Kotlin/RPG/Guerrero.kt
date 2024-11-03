@@ -1,4 +1,4 @@
-package RPG
+package Kotlin.RPG
 
 class Guerrero(nombre: String, puntosDeVida: Int, ataque: Int) : Personaje(nombre, puntosDeVida, ataque) {
     override fun atacar(objetivo: Personaje) {
